@@ -18,6 +18,7 @@ Detect solar panel anomaly from infrared image of solar panel.
 1. [autoencoder](#autoencoder)
 2. [InfraredSolarModules](#infraredsolarmodules)
 3. [solar_anomaly_detection_app](#solar_anomaly_detection_app)
+4. [Report](Report.pdf)
 
 ### autoencoder
 
